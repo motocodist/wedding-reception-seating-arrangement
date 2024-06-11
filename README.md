@@ -4,9 +4,10 @@
 
 My intial goals for this application and for what I would consider to be the MVP (Minimum Viable Product) is to have the ability to:
 - choose the number of tables at the venue (circle tables only for now)
-- choose the number of seats per table
-- create the list of attendees (add, edit, remove)
-- drag and drop the attendee(s) to a table from the list, or to the list from a table
+- choose the number of seats per table (will have to think of min/max)
+- generate forms on-the-fly for each table for the user to fill with attendee data
+- autopopulate the seats as the table forms are being filled
+- have the ability to drag and drop attendees from table to table, or unseat (save attendee info but no assigned seat)
 - reset table assignments
 - reset everything (table assignments and attendee list)
 
@@ -21,3 +22,5 @@ Other ideas I'd like to implement at some point:
     - groomsmen
     - bride's parents
     - groom's parents
+- share the table for viewing
+- share the table for editing
